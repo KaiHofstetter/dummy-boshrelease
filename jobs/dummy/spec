@@ -3,4 +3,4 @@ name: dummy
 templates:
   ctl.erb: bin/dummy_ctl
 
-packages: []
+packages: [openjdk-8]
